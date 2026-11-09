@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-09 11:01">
+<yml_catalog date="2026-11-09 11:22">
     <shop>
-        <name>Test OD Tanu</name>
+        <name>OD Tanu</name>
+        <company>OD Tanu Dropshipping</company>
+        <url>https://od.tanu.ua/</url>
+        <currencies>
+            <currency id="UAH" rate="1"/>
+        </currencies>
         <offers>
-            <offer id="123" available="true">
-                <price>1500</price>
-                <name>Тестовый товар</name>
-            </offer>
+            
         </offers>
     </shop>
 </yml_catalog>
